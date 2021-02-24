@@ -60,4 +60,5 @@ def noteyoudao(YNOTE_SESS: str, user: str, passwd: str):
 
 if __name__ == "__main__":
     noteyoudao("",user,passwd)
+    print("finished.")
 
