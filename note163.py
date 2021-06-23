@@ -10,7 +10,8 @@ urllib3.disable_warnings()
 
 user=""
 passwd=""
-
+ 
+    
 if(user=="",passwd==""):
     user = input("账号:")
     passwd = input("密码:")
